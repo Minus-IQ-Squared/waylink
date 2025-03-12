@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, waylink!");
+    println!("Hello, waylink: {}!", waylink::get_version());
 }
